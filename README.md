@@ -1,2 +1,2 @@
 # RMS
-Restaur
+Restaurant Management System 
